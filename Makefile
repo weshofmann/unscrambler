@@ -1,4 +1,4 @@
-CFLAGS = -g -Wall
+CFLAGS = -O3 -Wall
 LDFLAGS = 
 
 sources := $(wildcard *.c)
