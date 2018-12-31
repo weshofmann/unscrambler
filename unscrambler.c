@@ -19,13 +19,9 @@ along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 */
 
-#pragma warning(disable:4710 4711)
-#pragma warning(push)
-#pragma warning(disable:4820)
 #include <stdio.h>
 #include <string.h>
 #include <time.h>
-#pragma warning(pop)
 #include "ecma-267.h"
 
 #define MAX_SEEDS 4
